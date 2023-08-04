@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+astroimage.egg-info/PKG-INFO
+astroimage.egg-info/SOURCES.txt
+astroimage.egg-info/dependency_links.txt
+astroimage.egg-info/requires.txt
+astroimage.egg-info/top_level.txt
